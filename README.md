@@ -32,7 +32,7 @@ Extending the shell is straightforward: provide a new command class in a corresp
 
 ### Prerequisites
 
-The programm was developed and tested using Python 3.6.2. I'd expect it to run with Python 2.7 or 3.3. However, if you have trouble running it with your python version, feel free to contact me or post a comment.
+The program was developed and tested using Python 3.6.2. I'd expect it to run with Python 2.7 or 3.3. However, if you have trouble running it with your python version, feel free to contact me or post a comment.
 
 ## Author
 
