@@ -1,0 +1,2 @@
+- on windows tab completeion is not working by default, because there is no readline module
+- a readline alternative for windows can be installed with: pip3 install pyreadline
