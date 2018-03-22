@@ -4,19 +4,19 @@ Extensible python-based shell/CLI with built-in tab completion, command backlog,
 
 ## Getting Started
 
-Download repository files and run `python shell.py`. Start a little dialog to get a feeling for the behavior of the shell:
+Download repository files and run `python shell.py`. Start a little dialog (using TAB and arrow keys) to get a feeling for the behavior of the shell:
 
 <pre><code>
 Welcome to simple python shell!
-> [hit TAB]
+> <b>[hit TAB]</b>
 command_one    command_three  command_two    create_command help
 > help
 
-Documented commands (type help <topic>):
+Documented commands (type help &lt;topic&gt;):
 ========================================
 command_one  command_three  command_two  create_command  help
 
-> com[hit TAB]
+> com<b>[hit TAB]</b>
 command_one    command_two
 > command_one
 executing command_one
